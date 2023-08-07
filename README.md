@@ -1,2 +1,29 @@
-# ts-webpack-react-auto-route-template
-typescript webpack react auto route template
+# web front end for minth project
+
+## setup
+
+- nodejs v18
+- npm
+  
+install packages
+
+```
+npm i
+```
+
+build to `./dist` 
+
+```
+npm run build
+```
+
+dev
+
+```
+# start json server (mock backend)
+npm run api
+```
+```
+# start dev server 
+npm run 
+```
