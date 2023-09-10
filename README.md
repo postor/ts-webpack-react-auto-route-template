@@ -1,4 +1,4 @@
-# web front end for minth project
+# web front end 
 
 ## setup
 
